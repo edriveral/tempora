@@ -1,3 +1,3 @@
-hola1 = () => "Hola Edgar";
+function hola1 = () => document.getElementById("demo").innerHTML = "Hola Edgar";
 
-hola2 = val => "Hola " + val;
+function hola2 = val => "Hola " + val;
