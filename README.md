@@ -13,9 +13,17 @@ css
 # Un push
 
 Esto lo escribo en el repositorio local para subirlo luego a github. De la siguiente manera:
+
 > git push origin
 
 # Un pull
 
 Ahora escribo este párrafo desde github para luego llevarlo a mi repositorio local así:
+
 > git pull origin
+
+En este momento creo una rama nueva en local y hago el cambio a ella:
+
+> git checkout -b update-readme
+
+Un paso más y hago un cambio al presente documento en una rama nueva.
