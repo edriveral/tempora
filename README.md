@@ -29,3 +29,5 @@ En este momento creo una rama nueva en local y hago el cambio a ella:
 > git checkout -b update-readme
 
 Un paso más y hago un cambio al presente documento en una rama nueva.
+
+> git commit -m "Creando y usado una rama nueva"
