@@ -14,3 +14,8 @@ css
 
 Esto lo escribo en el repositorio local para subirlo luego a github. De la siguiente manera:
 > git push origin
+
+# Un pull
+
+Ahora escribo este párrafo desde github para luego llevarlo a mi repositorio local así:
+> git pull origin
