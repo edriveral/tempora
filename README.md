@@ -24,6 +24,8 @@ Ahora escribo este párrafo desde github para luego llevarlo a mi repositorio lo
 
 En este momento creo una rama nueva en local y hago el cambio a ella:
 
+# Una rama nueva
+
 > git checkout -b update-readme
 
 Un paso más y hago un cambio al presente documento en una rama nueva.
