@@ -1,33 +1,39 @@
-tempora
+Repositorio: tempora
 =======
 
-Iniciando un repositorio vacío en github que clonaremos a local con VS Code.
+Iniciamos un repositorio vacío en github que clonaremos a local con VS Code.
 Una vez clonado procederemos a incluir algunos archivos en local para ir llenando el repositorio y poder ejercitarme con git.
 
-# Archivos
+## Archivos
+
+readme.md (archivo actual)
 
 html
 
 css
 
-# Un push
+js
+
+## Un push
 
 Esto lo escribo en el repositorio local para subirlo luego a github. De la siguiente manera:
 
-> git push origin
+\> git push origin
 
-# Un pull
+## Un pull
 
-Ahora escribo este párrafo desde github para luego llevarlo a mi repositorio local así:
+Ahora escribo este párrafo en github para luego llevarlo a mi repositorio local así:
 
-> git pull origin
+\> git pull origin
 
 En este momento creo una rama nueva en local y hago el cambio a ella:
 
-# Una rama nueva
+## Una rama nueva
 
-> git checkout -b update-readme
+Creando una rama en local y cambiando a ella:
+
+\> git checkout -b update-readme
 
 Un paso más y hago un cambio al presente documento en una rama nueva.
 
-> git commit -m "Creando y usado una rama nueva"
+\> git commit -m "Creando y usado una rama nueva"
