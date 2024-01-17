@@ -18,13 +18,13 @@ js
 
 Esto lo escribo en el repositorio local para subirlo luego a github. De la siguiente manera:
 
-\> git push origin
+    > git push origin
 
 ## Un pull
 
 Ahora escribo este párrafo en github para luego llevarlo a mi repositorio local así:
 
-\> git pull origin
+    > git pull origin
 
 En este momento creo una rama nueva en local y hago el cambio a ella:
 
@@ -32,8 +32,8 @@ En este momento creo una rama nueva en local y hago el cambio a ella:
 
 Creando una rama en local y cambiando a ella:
 
-\> git checkout -b update-readme
+    > git checkout -b update-readme
 
 Un paso más y hago un cambio al presente documento en una rama nueva.
 
-\> git commit -m "Creando y usado una rama nueva"
+    > git commit -m "Creando y usado una rama nueva"
